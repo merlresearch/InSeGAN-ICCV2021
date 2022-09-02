@@ -1,0 +1,10 @@
+# Copyright (C) 2021-2022 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+torch==1.6.0
+torchvision==0.7.0
+numpy==1.20.1
+torchgeometry==0.1.2
+argparse
+pillow

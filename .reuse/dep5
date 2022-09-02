@@ -1,0 +1,5 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: images/insegan_pic.png
+Copyright: 2021,2022 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
